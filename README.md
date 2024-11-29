@@ -1,2 +1,13 @@
-# NPCTalk-AI
-基于大模型的NPC对话系统，可以根据玩家输入的对话生成相应的NPC话语
+# 基于大模型的NPC对话系统，可以根据玩家输入的对话生成相应的NPC话语  
+一：  
+  首先先去OpenAI官网获取API KEY  
+  找到设置，找到APIKEYS，获取密钥  
+二：  
+  安装.net相关的库  
+  https://github.com/OkGoDoIt/OpenAI-API-dotnet  
+  点击Release，点击最新版本  
+  选择SourceCode(Zip)  
+三：
+  压缩完zip之后文件夹中有“OpenAI_API”文件夹，拖拽放进unity中  
+  
+
