@@ -9,5 +9,5 @@
   选择SourceCode(Zip)  
 三：
   压缩完zip之后文件夹中有“OpenAI_API”文件夹，拖拽放进unity中  
-  
+  之后可能会发生报错，需要在package Manager中下载Newtonsoft Json  
 
